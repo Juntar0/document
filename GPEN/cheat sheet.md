@@ -1,4 +1,3 @@
-# --------------------------- SEC560 ---------------------------
 # Password Attacks: When to Use Each Technique
 ### Nohashes
 * password guessing
