@@ -2,16 +2,17 @@
 
 ## HTTP
 
-apache web server
+apache web server  
 
-python web server
-カレントディレクトリのファイルをリモート側でダウンロードさせる
+python web server  
+カレントディレクトリのファイルをリモート側でダウンロードさせる  
 ```
 python3 -m http.server PORTNUM
 ```
 
-download command
-	windows
-	``
-	linux
+download command  
+windows  
+```
+iwr -Uri "URL" -OutFile "保存先のファイルパス"
+```
 ## SMB
